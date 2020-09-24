@@ -1,1 +1,2 @@
-# Kodvote
+# Kodvote 
+Python Django
